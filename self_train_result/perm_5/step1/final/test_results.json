@@ -1,0 +1,12 @@
+{
+    "eval_LOC_f1": 0.899135446685879,
+    "eval_LOC_precision": 0.8863636363636364,
+    "eval_LOC_recall": 0.9122807017543859,
+    "eval_entity_macro_f1": 0.899135446685879,
+    "eval_entity_macro_precision": 0.8863636363636364,
+    "eval_entity_macro_recall": 0.9122807017543859,
+    "eval_loss": 0.03349984437227249,
+    "eval_runtime": 14.2003,
+    "eval_samples_per_second": 212.883,
+    "eval_steps_per_second": 6.69
+}

@@ -1,0 +1,18 @@
+{
+    "eval_CVL_f1": 0.7300751879699249,
+    "eval_CVL_precision": 0.7463489623366641,
+    "eval_CVL_recall": 0.7144959529065489,
+    "eval_LOC_f1": 0.9050119331742245,
+    "eval_LOC_precision": 0.8884723523898782,
+    "eval_LOC_recall": 0.9221789883268483,
+    "eval_QNT_f1": 0.6791044776119404,
+    "eval_QNT_precision": 0.7520661157024794,
+    "eval_QNT_recall": 0.6190476190476191,
+    "eval_entity_macro_f1": 0.7713971995853632,
+    "eval_entity_macro_precision": 0.7956291434763405,
+    "eval_entity_macro_recall": 0.7519075200936721,
+    "eval_loss": 0.14506588876247406,
+    "eval_runtime": 15.0785,
+    "eval_samples_per_second": 200.484,
+    "eval_steps_per_second": 6.3
+}

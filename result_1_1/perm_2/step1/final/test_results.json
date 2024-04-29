@@ -1,0 +1,12 @@
+{
+    "eval_DAT_f1": 0.8796296296296295,
+    "eval_DAT_precision": 0.8823529411764706,
+    "eval_DAT_recall": 0.8769230769230769,
+    "eval_entity_macro_f1": 0.8796296296296295,
+    "eval_entity_macro_precision": 0.8823529411764706,
+    "eval_entity_macro_recall": 0.8769230769230769,
+    "eval_loss": 0.01843598484992981,
+    "eval_runtime": 14.2438,
+    "eval_samples_per_second": 212.233,
+    "eval_steps_per_second": 6.67
+}

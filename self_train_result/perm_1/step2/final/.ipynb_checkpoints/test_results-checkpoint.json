@@ -1,0 +1,15 @@
+{
+    "eval_ORG_f1": 0.8402439024390242,
+    "eval_ORG_precision": 0.8067915690866511,
+    "eval_ORG_recall": 0.8765903307888041,
+    "eval_PER_f1": 0.9292929292929294,
+    "eval_PER_precision": 0.9214175654853621,
+    "eval_PER_recall": 0.9373040752351097,
+    "eval_entity_macro_f1": 0.8847684158659768,
+    "eval_entity_macro_precision": 0.8641045672860066,
+    "eval_entity_macro_recall": 0.906947203011957,
+    "eval_loss": 0.06582744419574738,
+    "eval_runtime": 14.8219,
+    "eval_samples_per_second": 203.954,
+    "eval_steps_per_second": 6.409
+}

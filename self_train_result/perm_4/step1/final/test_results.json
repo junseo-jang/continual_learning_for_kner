@@ -1,0 +1,12 @@
+{
+    "eval_QNT_f1": 0.8201892744479495,
+    "eval_QNT_precision": 0.7602339181286549,
+    "eval_QNT_recall": 0.8904109589041096,
+    "eval_entity_macro_f1": 0.8201892744479495,
+    "eval_entity_macro_precision": 0.7602339181286549,
+    "eval_entity_macro_recall": 0.8904109589041096,
+    "eval_loss": 0.018850889056921005,
+    "eval_runtime": 14.2983,
+    "eval_samples_per_second": 211.424,
+    "eval_steps_per_second": 6.644
+}

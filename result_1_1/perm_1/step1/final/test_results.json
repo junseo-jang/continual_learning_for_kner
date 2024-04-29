@@ -1,0 +1,12 @@
+{
+    "eval_ORG_f1": 0.8581687612208259,
+    "eval_ORG_precision": 0.8101694915254237,
+    "eval_ORG_recall": 0.9122137404580153,
+    "eval_entity_macro_f1": 0.8581687612208259,
+    "eval_entity_macro_precision": 0.8101694915254237,
+    "eval_entity_macro_recall": 0.9122137404580153,
+    "eval_loss": 0.05494493618607521,
+    "eval_runtime": 14.3722,
+    "eval_samples_per_second": 210.337,
+    "eval_steps_per_second": 6.61
+}

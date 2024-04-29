@@ -1,0 +1,12 @@
+{
+    "eval_CVL_f1": 0.8980348535409715,
+    "eval_CVL_precision": 0.9057591623036649,
+    "eval_CVL_recall": 0.8904411764705882,
+    "eval_entity_macro_f1": 0.8980348535409715,
+    "eval_entity_macro_precision": 0.9057591623036649,
+    "eval_entity_macro_recall": 0.8904411764705882,
+    "eval_loss": 0.05382746085524559,
+    "eval_runtime": 14.4115,
+    "eval_samples_per_second": 209.763,
+    "eval_steps_per_second": 6.592
+}
